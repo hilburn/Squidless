@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "Squidless",
+    "name": "Squidless",
+    "description": "Reduces Squid spawning",
+	"version": "${version}",
+	"mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["hilburn"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "parent":"",
+    "dependencies": []
+  }
+]
